@@ -41,10 +41,7 @@ h3{
 }
 
 /* Navigation Bar */
-.navbar{
-  /* padding: 0 0 1rem; */
 
-}
 
 .navbar-brand{
   font-family: 'Baloo Chettan 2', cursive;
@@ -75,9 +72,7 @@ h3{
 #slides{
   margin: 0% 0 3%;
 }
-.slides-img{
 
-}
 slides-img:hover{
   opacity: 0.6;
 }
@@ -94,9 +89,7 @@ slides-img:hover{
   height: 500px;
   background-color: #c0c0c0;
 }
-.body-img{
-  width:
-}
+
 .carousel-item{
     height:500px;
 }
